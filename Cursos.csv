@@ -1,0 +1,21 @@
+idCurso,titulo,descripcion,nivel,anioPublicacion,calificacionPromedio
+1,Python desde Cero,"Aprende a programar con Python: variables, control de flujo, funciones y archivos",Básico,2021,4.6
+2,Desarrollo Web con JavaScript,"Construye páginas dinámicas con JavaScript, DOM y consumo de APIs",Intermedio,2022,4.4
+3,Fundamentos de Ciencia de Datos,Introducción al análisis de datos con estadística descriptiva y Pandas,Básico,2021,4.5
+4,Machine Learning Aplicado,Modelos supervisados y no supervisados con casos reales,Avanzado,2023,4.7
+5,Marketing Digital Esencial,"Estrategia, redes sociales y embudos de conversión para pequeñas empresas",Básico,2020,4.2
+6,Diseño UX/UI,"Investigación de usuarios, prototipado y diseño de interfaces",Intermedio,2022,4.5
+7,Gestión de Proyectos Ágiles,"Scrum, Kanban y planificación de entregas incrementales",Intermedio,2021,4.3
+8,Introducción a la Ciberseguridad,"Amenazas comunes, criptografía básica y buenas prácticas de seguridad",Básico,2023,4.4
+9,Finanzas Personales,"Presupuesto, ahorro, crédito e inversión para el día a día",Básico,2020,4.1
+10,Inglés para Negocios,"Comunicación profesional en inglés: reuniones, correos y presentaciones",Intermedio,2022,4.0
+11,Nutrición y Hábitos Saludables,"Alimentación balanceada, planificación de comidas y hábitos sostenibles",Básico,2021,4.3
+12,Fotografía Digital,"Exposición, composición y edición básica de fotografías",Básico,2020,4.2
+13,Teoría Musical y Piano,"Lectura de partituras, escalas y primeras piezas al piano",Básico,2022,4.6
+14,Ingeniería de Software,"Ciclo de vida del software, requisitos, arquitectura y pruebas",Intermedio,2023,4.4
+15,Liderazgo de Equipos,"Comunicación, delegación y gestión de conflictos en equipos",Avanzado,2024,4.5
+16,Álgebra Lineal para Computación,"Vectores, matrices y transformaciones aplicadas a gráficos y datos",Avanzado,2022,4.1
+17,Bases de Datos con SQL,"Modelado relacional, consultas SQL y optimización básica",Intermedio,2021,4.5
+18,Visualización de Datos con Power BI,"Dashboards, modelos de datos y narrativa con datos",Intermedio,2023,4.4
+19,SEO y Analítica Web,"Posicionamiento orgánico, métricas web y optimización continua",Avanzado,2024,4.3
+20,Deep Learning con Redes Neuronales,"Redes densas, convolucionales y recurrentes con TensorFlow",Avanzado,2024,4.8

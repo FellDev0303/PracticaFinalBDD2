@@ -1,0 +1,81 @@
+idLeccion,titulo,descripcion,duracionMin,numero
+1,Instalación y primer programa,Lección sobre: instalación y primer programa,15,1
+2,Variables y tipos de datos,Lección sobre: variables y tipos de datos,22,2
+3,Condicionales y bucles,Lección sobre: condicionales y bucles,11,1
+4,Funciones y módulos,Lección sobre: funciones y módulos,18,2
+5,Sintaxis y tipos,Lección sobre: sintaxis y tipos,25,1
+6,Funciones y eventos,Lección sobre: funciones y eventos,14,2
+7,Manipulación del DOM,Lección sobre: manipulación del dom,21,1
+8,Consumo de APIs con fetch,Lección sobre: consumo de apis con fetch,10,2
+9,¿Qué es la ciencia de datos?,Lección sobre: ¿qué es la ciencia de datos?,17,1
+10,Tipos de variables y fuentes,Lección sobre: tipos de variables y fuentes,24,2
+11,Estadística descriptiva,Lección sobre: estadística descriptiva,13,1
+12,Pandas para tablas,Lección sobre: pandas para tablas,20,2
+13,Regresión lineal y logística,Lección sobre: regresión lineal y logística,9,1
+14,Árboles y bosques aleatorios,Lección sobre: árboles y bosques aleatorios,16,2
+15,Validación cruzada y métricas,Lección sobre: validación cruzada y métricas,23,1
+16,Clustering con K-means,Lección sobre: clustering con k-means,12,2
+17,Buyer persona y propuesta de valor,Lección sobre: buyer persona y propuesta de valor,19,1
+18,Canales digitales,Lección sobre: canales digitales,8,2
+19,Calendario de contenidos,Lección sobre: calendario de contenidos,15,1
+20,Embudos y campañas pagadas,Lección sobre: embudos y campañas pagadas,22,2
+21,Entrevistas y encuestas,Lección sobre: entrevistas y encuestas,11,1
+22,Mapas de empatía y journey,Lección sobre: mapas de empatía y journey,18,2
+23,Wireframes y flujos,Lección sobre: wireframes y flujos,25,1
+24,Prototipos y pruebas de usabilidad,Lección sobre: prototipos y pruebas de usabilidad,14,2
+25,Valores y principios ágiles,Lección sobre: valores y principios ágiles,21,1
+26,Roles y eventos de Scrum,Lección sobre: roles y eventos de scrum,10,2
+27,Backlog e historias de usuario,Lección sobre: backlog e historias de usuario,17,1
+28,Retrospectivas y métricas,Lección sobre: retrospectivas y métricas,24,2
+29,Malware y phishing,Lección sobre: malware y phishing,13,1
+30,Ataques a redes y aplicaciones,Lección sobre: ataques a redes y aplicaciones,20,2
+31,Criptografía y contraseñas,Lección sobre: criptografía y contraseñas,9,1
+32,Políticas y respuesta a incidentes,Lección sobre: políticas y respuesta a incidentes,16,2
+33,"Ingresos, gastos y presupuesto","Lección sobre: ingresos, gastos y presupuesto",23,1
+34,Ahorro y fondo de emergencia,Lección sobre: ahorro y fondo de emergencia,12,2
+35,Deuda y tasas de interés,Lección sobre: deuda y tasas de interés,19,1
+36,Conceptos de inversión,Lección sobre: conceptos de inversión,8,2
+37,Reuniones y negociación,Lección sobre: reuniones y negociación,15,1
+38,Presentaciones efectivas,Lección sobre: presentaciones efectivas,22,2
+39,Correos profesionales,Lección sobre: correos profesionales,11,1
+40,Informes y propuestas,Lección sobre: informes y propuestas,18,2
+41,Macronutrientes y micronutrientes,Lección sobre: macronutrientes y micronutrientes,25,1
+42,Lectura de etiquetas,Lección sobre: lectura de etiquetas,14,2
+43,Menús semanales,Lección sobre: menús semanales,21,1
+44,Hábitos y constancia,Lección sobre: hábitos y constancia,10,2
+45,Triángulo de exposición,Lección sobre: triángulo de exposición,17,1
+46,Enfoque y lentes,Lección sobre: enfoque y lentes,24,2
+47,Reglas de composición,Lección sobre: reglas de composición,13,1
+48,Edición básica de imágenes,Lección sobre: edición básica de imágenes,20,2
+49,El pentagrama y las notas,Lección sobre: el pentagrama y las notas,9,1
+50,Ritmo y compases,Lección sobre: ritmo y compases,16,2
+51,Escalas mayores,Lección sobre: escalas mayores,23,1
+52,Interpretación de una pieza sencilla,Lección sobre: interpretación de una pieza sencilla,12,2
+53,Modelos de proceso,Lección sobre: modelos de proceso,19,1
+54,Levantamiento de requisitos,Lección sobre: levantamiento de requisitos,8,2
+55,Arquitectura de software,Lección sobre: arquitectura de software,15,1
+56,Pruebas y control de versiones,Lección sobre: pruebas y control de versiones,22,2
+57,Estilos de liderazgo,Lección sobre: estilos de liderazgo,11,1
+58,Comunicación asertiva,Lección sobre: comunicación asertiva,18,2
+59,Delegación y seguimiento,Lección sobre: delegación y seguimiento,25,1
+60,Manejo de conflictos,Lección sobre: manejo de conflictos,14,2
+61,Vectores y operaciones,Lección sobre: vectores y operaciones,21,1
+62,Matrices y determinantes,Lección sobre: matrices y determinantes,10,2
+63,Sistemas de ecuaciones,Lección sobre: sistemas de ecuaciones,17,1
+64,Valores y vectores propios,Lección sobre: valores y vectores propios,24,2
+65,Entidades y relaciones,Lección sobre: entidades y relaciones,13,1
+66,Normalización,Lección sobre: normalización,20,2
+67,"SELECT, JOIN y filtros","Lección sobre: select, join y filtros",9,1
+68,Agregaciones y subconsultas,Lección sobre: agregaciones y subconsultas,16,2
+69,Conexión a fuentes de datos,Lección sobre: conexión a fuentes de datos,23,1
+70,Relaciones y medidas DAX,Lección sobre: relaciones y medidas dax,12,2
+71,Gráficos y filtros interactivos,Lección sobre: gráficos y filtros interactivos,19,1
+72,Narrativa con datos,Lección sobre: narrativa con datos,8,2
+73,Investigación de palabras clave,Lección sobre: investigación de palabras clave,15,1
+74,SEO on-page y técnico,Lección sobre: seo on-page y técnico,22,2
+75,Google Analytics y métricas,Lección sobre: google analytics y métricas,11,1
+76,Pruebas A/B y optimización,Lección sobre: pruebas a/b y optimización,18,2
+77,Neurona y función de activación,Lección sobre: neurona y función de activación,25,1
+78,Entrenamiento y retropropagación,Lección sobre: entrenamiento y retropropagación,14,2
+79,Redes convolucionales,Lección sobre: redes convolucionales,21,1
+80,Redes recurrentes,Lección sobre: redes recurrentes,10,2
