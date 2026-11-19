@@ -1,6 +1,21 @@
-idPais,nombre
-10,Colombia
-20,Chile
-30,Perú
-40,México
-50,Argentina
+idPais,nombre,codigo
+1,Colombia,CO
+2,México,MX
+3,Argentina,AR
+4,Chile,CL
+5,Perú,PE
+6,Ecuador,EC
+7,Brasil,BR
+8,Estados Unidos,US
+9,España,ES
+10,Uruguay,UY
+11,Panamá,PA
+12,Costa Rica,CR
+13,Venezuela,VE
+14,Bolivia,BO
+15,Paraguay,PY
+16,República Dominicana,DO
+17,Guatemala,GT
+18,Canadá,CA
+19,Portugal,PT
+20,Alemania,DE
