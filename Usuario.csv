@@ -1,7 +1,21 @@
-idUsuario,Nombre
-1,Ana Torres
-2,Luis Méndez
-3,Sofía Ramírez
-4,Diego Morales
-5,Valentina Rojas
-6,Andrés Castro
+idUsuario,nombre,edad,sexo,email,fechaNacimiento
+1,Mario Bros,41,M,mario.bros@correo.com,1985-09-13
+2,Luigi Bros,43,M,luigi.bros@correo.com,1983-07-14
+3,Princesa Peach,36,F,princesa.peach@correo.com,1990-10-13
+4,Link,28,M,link@correo.com,1998-02-21
+5,Zelda,27,F,zelda@correo.com,1999-03-14
+6,Samus Aran,40,F,samus.aran@correo.com,1986-08-06
+7,Lara Croft,34,F,lara.croft@correo.com,1992-02-14
+8,Master Chief,42,M,master.chief@correo.com,1984-03-07
+9,Kratos,46,M,kratos@correo.com,1980-05-10
+10,Geralt de Rivia,48,M,geralt.de.rivia@correo.com,1978-10-31
+11,Ellie Williams,25,F,ellie.williams@correo.com,2001-04-19
+12,Cloud Strife,29,M,cloud.strife@correo.com,1997-08-11
+13,Sonic,35,M,sonic@correo.com,1991-06-23
+14,Pac-Man,46,Otro,pac-man@correo.com,1980-05-22
+15,Donkey Kong,45,M,donkey.kong@correo.com,1981-07-09
+16,Kirby,34,Otro,kirby@correo.com,1992-04-27
+17,Aloy,29,F,aloy@correo.com,1996-11-28
+18,Nathan Drake,39,M,nathan.drake@correo.com,1987-07-21
+19,Solid Snake,54,M,solid.snake@correo.com,1972-06-12
+20,Tracer,33,F,tracer@correo.com,1993-06-24
